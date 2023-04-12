@@ -1,0 +1,1054 @@
+
+
+
+
+The FBI report on Hillary Clinton’s private email server, explained - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+Vox homepage
+
+
+
+
+
+
+
+
+
+
+
+Give
+Give
+
+
+Newsletters
+Newsletters
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Vox main menu
+
+
+
+              Explainers
+              
+                
+
+
+
+
+              Crossword
+              
+              
+
+
+
+              Video
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Politics
+              
+              
+
+
+
+              Policy
+              
+              
+
+
+
+              Culture
+              
+              
+
+
+
+              Science
+              
+              
+
+
+
+              Technology
+              
+              
+
+
+
+              Climate
+              
+              
+
+
+
+              Health
+              
+              
+
+
+
+              Money
+              
+              
+
+
+
+              Future Perfect
+              
+              
+
+
+
+              Life
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Explainers
+            
+              
+
+
+
+
+
+                          Abortion ruling
+                        
+
+
+
+                          Twitter changes
+                        
+
+
+
+                          Trump indictment
+                        
+
+
+
+
+
+                          AI
+                        
+
+
+
+                          China
+                        
+
+
+
+                          HBO’s Succession
+                        
+
+
+
+All explainers
+
+
+
+
+
+            Crossword
+            
+          
+
+
+
+            Video
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Politics
+            
+          
+
+
+
+            Policy
+            
+          
+
+
+
+            Culture
+            
+          
+
+
+
+            Science
+            
+          
+
+
+
+            Technology
+            
+          
+
+
+
+            Climate
+            
+          
+
+
+
+            Health
+            
+          
+
+
+
+            Money
+            
+          
+
+
+
+            Future Perfect
+            
+          
+
+
+
+            Life
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+x
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+The FBI report on Hillary Clinton’s private email server, explained
+
+Here’s what we learned from the FBI’s 58-page report on Clinton’s email server.
+
+
+    
+      By
+      
+Jeff Stein
+
+
+
+  Sep  6, 2016,  9:50am EDT
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+The FBI report on Hillary Clinton’s private email server, explained
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The FBI released a 58-page report on its investigation into Hillary Clinton's private email server on Friday. Here's what we learned.
+Chip Somodevilla/Getty Images
+
+
+
+FBI Director James Comey stunned reporters back in July when he laced into Hillary Clinton for her use of a private email server during her time as secretary of state.
+"There is evidence that they were extremely careless in their handling of very sensitive, highly classified information," Comey said of Clinton and her team.
+The FBI cleared Clinton of any criminal wrongdoing in connection with its investigation, saying it couldn’t prove that she had knowingly exchanged classified information on her private email server.
+But on Friday, the FBI took the unusual step of releasing a 58-page report with the findings from its work on the case, including 11 pages of notes from its interview with Clinton herself. I read the report, and it goes a long way toward explaining why Comey considered Clinton’s behavior "extremely careless" — even if it also suggests there was likely little malice behind her worst missteps.
+Hackers really did try getting into Hillary Clinton’s unsecured "homebrew" server
+The biggest concern the FBI report keeps coming back to is whether someone or some foreign government was able to hack into, and steal, the emails Clinton was sending with other members of the state department.
+While secretary of state, Clinton exclusively used a private email account hosted on a private email server installed at her family’s home in Westchester, New York. And at least 100 of the 30,000 emails Clinton turned over to the state department have turned out to have contained classified information at the time they were sent or received; seven of her email chains had the "top secret" designation.
+Those two facts — that Clinton’s email server was unsecured and that she, knowingly or not, exchanged classified information — have long raised the possibility that Clinton gave hackers an opening to go after state secrets.
+The FBI report makes clear that many at least tried. The bureau produced several pages of evidence detailing its attempts to figure out if Clinton’s server was ultimately breached.
+They note a slew of reasons to be concerned:
+
+The FBI says there were essentially no encryption safeguards on the private email server the Clintons had set up in their basement (also known as the "Pagliano Server").(Back when news of Clinton’s "homebrew server" surfaced, the campaign told Vox’s Timothy Lee that her staff "absolutely" took security measures to safeguard against foreign attackers. But the new FBI report contradicts that narrative, noting that the Pagliano Server did not use key security protections like two-factor authentication.) 
+
+
+The private server had to be shut down repeatedly because of attacks from someone apparently trying to hack into it.
+Some unnamed "hostile foreign actors" were able to break into the personal email accounts of Clinton’s close aides, obtaining hundreds of emails exchanged with her personal account.
+Clinton received "phishing" emails to her private email account.
+The Clinton family’s private server was hacked successfully at least once by an unknown person using a service called "Tor." The hacker using "Tor" was only confirmed to have broken into the emails of an aide to Bill Clinton (the FBI doesn’t say if Hillary Clinton’s emails were ever hacked by this person).
+Clinton’s emails were eventually transferred from her home basement to a server run by a private contractor. An analysis of that server, though, also "revealed multiple instances of potential malicious actors" trying to hack in, the report says.
+
+To be clear: The FBI expressly says that there’s no proof that any attempted hack on Hillary Clinton’s personal email account was successful. But the report also makes very clear that they found evidence that someone was trying to break into what was almost certainly a weaker defense than the government systems Clinton would have been using under the normal channels.
+A bunch of Clinton’s old hardware is unaccounted for
+But the absence of evidence doesn’t mean evidence of absence. As Vox’s Lee has noted, the FBI has no way of really knowing whether Clinton’s servers were compromised in any way. The hackers could simply steal the classified information and disappear without a trace.
+But potentially even worse, at least from Comey’s perspective, is that there’s no way of testing whether much of the equipment used by Clinton actually was hacked. That’s because the FBI doesn’t have it.
+This was one of the more surprising revelations in the FBI report, and the one most discussed in the subsequent coverage: A large number of devices used by Clinton at State have since gone missing and are beyond the FBI’s ability to recover.
+The digital body count of missing Clinton electronic devices includes: 11 of the 13 BlackBerrys she used as secretary of state (the other two were destroyed by hammer); three of the five iPads she used to send and receive emails (the two the FBI did recover showed no evidence of having been hacked); and one thumb drive and one laptop with the archives of all of Clinton’s email correspondence.
+These last two — the thumb drive and the laptop — were somehow lost in the mail by the private contractor responsible for maintaining Clinton’s private email account. (This was after they were also previously briefly lost for a period of time by a Clinton staffer during an office move.)
+Nobody seems to know where the missing phones are, either. (Or exactly why Clinton ran through phones so quickly — she seems to have repeatedly upgraded and downgraded her devices). Her aides seem to have been responsible for finding a new BlackBerry for Clinton when they malfunctioned, but what happened to the old ones isn’t clear. Most of us have probably discarded an old smartphone or two over the years, but most of us aren’t cabinet officials dealing with sensitive information and targeted by foreign intelligence agencies.
+So there may be quite a few phones and laptops floating about with classified information somewhere in them. That itself may be an ongoing security risk, but it also prevents the FBI from testing these devices to see if they were ever successfully hacked.In a statement, the Clinton campaign noted that the FBI had decided not to press charges. "While her use of a single email account was clearly a mistake and she has taken responsibility for it, these materials make clear why the Justice Department believed there was no basis to move forward with the case," said campaign spokesperson Brian Fallon.
+We don’t know if there were other Clinton emails
+Beyond questions of compliance with government rules and security best practices, there is the question of whether Clinton’s email security lapses actually represented a substantive risk to national security.
+Without knowing the contents of the emails, there’s no way to know if their possible disclosure to hackers was genuinely damaging.
+The US government is widely believed to routinely overclassify information (Congress even passed a Reducing Over-Classification Act in 2010 to try to get agencies to stop doing this) marking fairly trivial discussions "classified" or "confidential" when they don’t need to be. State Department personnel may have been willing to discuss "classified" matters with Clinton over email because in their judgment the information was not genuinely sensitive.
+Moreover, many of the emails were classified retroactively, so maybe Clinton really can’t be faulted for exchanging them in the first place.
+The difficulty is we simply don’t know what information was contained in the emails in question.
+There are two levels to this. One is simply that, by definition, the classified portions of the emails turned over to the FBI are classified. The FBI itself knows what these emails say, but the public does not. Wall Street Journal reporting indicates that some of them are related to drone strikes in Afghanistan and Pakistan, and the FBI report confirms that Clinton was asked about emails related to drone strikes.
+A separate issue is that the FBI does not have every email that was on Clinton’s server. Her server and her email account were used for both work and personal business. She instructed her legal team to hand all "work related" emails to the State Department, and then in December 2014, Cheryl Mills, one of her top aides, told the contractor holding Clinton’s email archive to delete the personal emails that had not been turned over. Many of those emails are now gone, and the FBI has been unable to recover them.
+If you trust Hillary Clinton, the FBI agents who investigated her, and the lawyers who were directed to segregate the work-related from personal emails, then there’s no clear evidence here of any serious harm. But if you don’t trust Clinton (and polls show most people don’t) — and especially if you think the FBI or Williams & Connolly are covering for her — then there’s certainly room to keep doubting.
+(It's also worth noting that the state department's servers may not have been that much better protected — in 2006, hackers stole sensitive US information from the state department's unclassified server.)
+Why not caring about email security, not Clinton’s evil genius, is the real lesson of this story
+Conservatives have been quick to jump on this controversy as revealing the breadth of her  "dishonesty and deception," alleging that she lied to shield her decisions from scrutiny. Liberals have defended Clinton’s machinations as those of a shrewd political operator, rationally fearful of a Republican witch-hunt, simply stretching the bounds of open records law.
+But the truth is less conspiratorial. The evidence in the report suggests that Clinton’s undoing here was that she simply never took the time to really understand the details of email server management or how they related to the state department’s classification system. One section of the FBI report makes clear that the whole email enterprise was more or less an afterthought to her:
+
+(Clinton) stated there was a process in place at State before her tenure (for handling emails), and she relied on career foreign service professions to appropriately mark and handle classified information …
+Clinton did not recall receiving any emails she thought should not have been on an unclassified system. She relied on state officials to use their judgment when emailing her and could not recall anyone raising concerns with her regarding the sensitivity of the information she received at her email address.
+
+In her FBI interview, Clinton again and again suggests that she didn’t take questions around classification and email security seriously, saying she didn’t remember things like the proper use of a Special Access Program security briefing, which state department employees had their Gmail accounts hacked, or even whether the "c" meant "confidential" in departmental exchanges.  (The Washington Post’s Aaron Blake runs down some of the more than 30 times in her FBI interview Clinton said she didn’t know something.) And that fits the impression left by Comey himself in July, in which he surprised congressional lawmakers by appearing to suggest he didn’t think Clinton had set up the alternative email account to circumvent open records laws, according to Vox’s Andrew Prokop.
+The Clinton stereotype makes her out to be a conniving politician who will do what it takes to obtain power. So when the FBI investigates her for email mismanagement, it’s our natural inclination to fit those new facts to the preexisting stereotype.
+But the FBI’s email investigation points to just the opposite conclusion. It suggests someone who didn’t recognize or understand the dangers of a "homebrew" server, and who didn’t sweat the details of what happened to her discarded BlackBerrys. (Understandably so! Clinton was tasked with running US foreign policy at the time and presumably also had other things to worry about.)
+Clinton, in other words, wasn’t a technocratic and savvy manipulator of State Department email protocol who gamed the system for her own good. She barely understood what the protocol was.
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+    In This Stream
+  
+Hillary Clinton's email investigation: news and updates
+
+
+The hacked emails at the center of Mueller’s Russia investigation, explained
+
+
+The FBI report on Hillary Clinton’s private email server, explained
+
+
+Donald Trump calls on Russia to find Hillary Clinton's missing emails
+
+
+
+    View all 29 stories
+  
+
+
+
+
+    Next Up In
+    
+        Politics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+
+
+
+
+The case against pet ownership
+
+
+
+
+
+
+The ongoing scandal over leaked US intel documents, explained
+
+
+
+
+
+
+Why Austin Butler still sounds like Elvis, explained by his own vocal coach
+
+
+
+
+
+
+Why all your friends are sending you voice notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vox-mark
+
+
+
+
+
+
+
+
+        Sign up for the
+        
+          newsletter
+        
+      
+      Future Perfect
+    
+Each week, we explore unique solutions to some of the world's biggest problems.
+
+
+
+
+
+
+Thanks for signing up!
+Check your inbox for a welcome email.
+
+
+
+
+Email (required)
+
+
+
+
+
+
+Oops. Something went wrong. Please enter a valid email and try again.
+
+
+      By submitting your email, you agree to our Terms and Privacy Notice. You can opt out at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+      For more newsletters, check out our newsletters page.
+    
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest
+
+
+
+
+
+
+
+
+
+
+Why the workplace is a common site of mass shootings
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mifepristone is safe
+
+
+    
+      By
+      
+Keren Landman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+
+Why AI doesn’t speak every language
+
+
+    
+      By
+      
+Phil Edwards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An assault weapons ban might not end mass shootings. But it would help.
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tennessee Republicans kicked out Justin Jones for gun control protests. He’s back. 
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

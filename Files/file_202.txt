@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+
+A Browser Game Recreates the Tedium of a 1990s Office Job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			Close		
+
+Sign In
+Become a Member
+ 
+
+
+Search for:
+
+
+
+ 
+			Search		
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+ 
+News
+Art
+Books
+Film
+Performance
+Opinion
+Comics
+
+Instagram
+Mastodon
+LinkedIn
+Facebook
+Twitter
+Tumblr
+Features
+Previews
+Reviews
+Interviews
+Opportunities
+
+
+
+
+			Close		
+News
+Art
+Books
+Film
+Performance
+Opinion
+Comics
+
+Instagram
+Mastodon
+LinkedIn
+Facebook
+Twitter
+Tumblr
+Features
+Previews
+Reviews
+Interviews
+Opportunities
+ 
+
+
+			Close		
+
+Sign In
+Become a Member
+ 
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+ 
+News
+Art
+Books
+Film
+Performance
+Opinion
+Comics
+
+Instagram
+Mastodon
+LinkedIn
+Facebook
+Twitter
+Tumblr
+Features
+Previews
+Reviews
+Interviews
+Opportunities
+
+
+
+Skip to content
+
+
+
+
+
+ Menu
+
+
+
+
+
+Hyperallergic
+
+					Sensitive to Art & its Discontents				
+
+
+
+ Menu
+
+
+
+
+			Open Search		
+
+
+
+
+
+
+Search for:
+
+
+
+ 
+			Search		
+
+
+
+
+
+
+
+
+
+
+
+
+Posted inArt 
+ 						Reviews 					
+ 
+			A Browser Game Recreates the Tedium of a 1990s Office Job		
+
+			Pippin Barr’s game It is as if you were doing work simulates the distractions and mundane tasks of the office, imagined for a future when work is replaced by machines.		
+
+
+
+
+by
+Allison Meier 
+July 18, 2017August 3, 2021 
+ShareShareEmailFacebookTwitterLinkedInMastodon 
+
+
+
+
+
+It is as if you were doing work (courtesy Pippin Barr)” width=”720″ height=”390″ srcset=”https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork03-720×390.jpg 720w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork03-600×325.jpg 600w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork03-1080×585.jpg 1080w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork03-360×195.jpg 360w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork03.jpg 1400w” sizes=”(max-width: 720px) 100vw, 720px”>Screenshot of It is as if you were doing work (courtesy Pippin Barr)
+While attempting to type some inane email in It is as if you were doing work, pop-up windows proclaiming “Success is no accident” and “No one ever drowned in sweat” kept interrupting my text. Then there were the incessant buttons to click, documents to send, and other mildly irritating tasks, all as I worked towards the next promotion. The recently released game, created by Pippin Barr, is a simulation of office work using late ’90s Windows sound and visuals, set in a near future where robots have taken on the real labor.
+The game “poses as an application that humans who have been put out of work by robots and AI can play as a way to recapture the sense they once had of doing work and being productive,” Barr, an assistant professor in the Department of Design and Computation Arts at Concordia University in Montréal, writes in a release. “It’s a kind of semi-condescending service offered by this new world to those of us who can’t deal with it.”
+
+It’s also a sadly accurate simulation of many offices, where attempts to get work done are constantly derailed by work motivation, whether meetings, messages, emails, or just a particularly aggravating motivational poster. Barr often experiments with game structures for unconventional play, such as his digital take on Marina Abramović’s “The Artist Is Present,” and the v r 3 museum of rendered water launched earlier this year. Players begin It is as if you were doing work as a lowly “Screen Administrator,” before progressing through meaningless tasks and some enforced “breaks” to play Breakout, and being promoted to titles like “Big Data Administrator.” You’re rewarded with perky sound effects and pop-up windows, yet the job always stays the same. The only things you can change are your desktop backdrop (a cat and a photograph of a messy desk being options) and the looping MIDI music, including a “world” selection that has a grating pan flute accompaniment.
+ 
+ 
+
+It is, needless to say, rather depressing. Alice O’Connor, who shared the game on Rock Paper Shotgun, notes that it’s not too far from reality, as there are fake companies in France run as real offices for the unemployed to get workplace training. Other games have similarly pondered the office in an automated future, including Owlchemy Lab’s VR Job Simulator (Kotaku made a list of 10 games that simulate office jobs). And Barr’s creation evokes some of the irony in games such as the Sims, where the mechanics involve mundane life actions like microwaving a ramen cup or reading a newspaper’s “help wanted” ads. Increasingly, performative office communications like Slack basically turn the workspace into a large-scale RPG, or at least add more digital noise to the desktop. It’s possible to imagine a future where that element of distraction becomes the job itself.
+Screenshot of It is as if you were doing work (courtesy Pippin Barr)
+It is as if you were doing work (courtesy Pippin Barr)” width=”720″ height=”390″ srcset=”https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork05-720×390.jpg 720w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork05-600×325.jpg 600w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork05-1080×585.jpg 1080w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork05-360×195.jpg 360w, https://hyperallergic-newspack.s3.amazonaws.com/uploads/2017/07/itsasifyouweredoingwork05.jpg 1400w” sizes=”(max-width: 720px) 100vw, 720px”>Screenshot of It is as if you were doing work (courtesy Pippin Barr)
+It is as if you were doing work by Pippin Barr is available to play online.
+
+
+Related
+ 
+
+
+The Latest
+
+
+
+
+ 
+
+
+LA Auctioneer Admits to Helping Create Fake Basquiats Michael Barzman of North Hollywood confessed to lying to the FBI about the provenance of forgeries exhibited at the Orlando Museum of Art.
+
+
+by Valentina Di Liscia 
+
+
+
+
+
+
+ 
+
+
+On the Sacred Magic of Writing With “Dark Illuminations” artist Kenturah Davis creates opportunities for us to see the sacred and meditative in the words we write. 
+
+
+by AX Mina 
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+						Sponsored					
+
+Nature, Crisis, Consequence at the New-York Historical Society This exhibition looks at the social and cultural impact of environmental crises on different communities.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+The Complex Spiritualities of Syncretic Beliefs While candles, images of saints, and other idols are common in households in Puerto Rico, the meanings owners ascribe to them can be unexpected. 
+
+
+by Sebastián Meltz-Collazo 
+
+
+
+
+
+
+ 
+
+
+Techno Visionary Carl Craig Brings the Party to the Museum The second iteration of Craig’s art installation Party/After-Party will be staged in a former police car warehouse that houses LA’s Museum of Contemporary Art. 
+
+
+by Matt Stromberg 
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+						Sponsored					
+
+Stream Media Works by Artists in Asia, the Americas, and Oceania on Watch and Chill 3.0 International audiences have free access to the media collections of MMCA Korea, TONO festival, the Peabody Essex Museum, and the National Gallery of Victoria.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+How Pinocchio Put LA’s Italian American Museum On the Map “A Real Boy: The Many Lives of Pinocchio” is the institution’s most popular exhibition to date, bringing tens of thousands of visitors to the lesser-known museum. 
+
+
+by Matt Stromberg 
+
+
+
+
+
+
+ 
+
+
+Things I’ve Learned at the Palm Springs Jewish Film Festival Celebrating its 10th anniversary, the festival explored intergenerational relationships, the preservation of Jewish traditions, and the lingering trauma of the Holocaust. 
+
+
+by Renée Reizman 
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+						Sponsored					
+
+GOING WITH THE FLOW: ART, ACTIONS, AND WESTERN WATERS Artists from the Southwestern US explore the role of water during extreme droughts in a group exhibition at SITE Santa Fe curated by Lucy R. Lippard and Brandee Caoba.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Chicago Artists Exploring Meaning-Making Win 2023 Artadia Awards SaraNoa Mark, Nyeema Morgan, and Julia Phillips will each receive $15,000 unrestricted grants.
+
+
+by Rhea Nayyar 
+
+
+
+
+
+
+ 
+
+
+Harvard Names Graduate School After Republican Megadonor The Graduate School of Arts and Sciences now carries the name of Kenneth C. Griffin, backer of candidates pushing anti-LGBTQ+ laws and climate change denial.
+
+
+by Elaine Velie 
+
+
+
+
+
+ 
+
+Tagged: Interactive, Pippin Barr, Reviews, Video Games 
+
+
+
+
+
+
+								Allison Meier							
+
+
+
+
+
+							Allison C. Meier is a former staff writer for Hyperallergic. Originally from Oklahoma, she has been covering visual culture and overlooked history for print...							
+							More by Allison Meier							
+
+
+
+
+
+
+PopularSanta Fe’s Center for Contemporary Arts Closes PermanentlyJustice Clarence Thomas Accepted Undisclosed Art Gifts From Conservative Donor15 Art Shows to See in New York This Month10 Brutalist Architects You Probably Never Heard OfReclaiming the Story of Free Black Potter Thomas W. CommerawSponsored
+Nature, Crisis, Consequence at the New-York Historical SocietyStream Media Works by Artists in Asia, the Americas, and Oceania on Watch and Chill 3.0GOING WITH THE FLOW: ART, ACTIONS, AND WESTERN WATERSEnjoy Summer Marathons in Drawing, Painting, and Sculpture at New York Studio School
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+ 
+Facebook
+Twitter
+Instagram
+LinkedIn
+ 
+
+
+
+
+
+Hyperallergic is a forum for serious, playful, and radical thinking about art in the world today. Founded in 2009, Hyperallergic is headquartered in Brooklyn, New York.
+Home
+Latest
+Podcast
+Store
+About
+Support Us
+Advertise
+Contact Us
+Sign In
+Membership
+Newsletters
+Submissions
+Careers
+ 
+
+
+
+© 2023 Hyperallergic.
+
+					Proudly powered by Newspack by Automattic				
+Privacy Policy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

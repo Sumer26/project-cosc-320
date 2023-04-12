@@ -1,0 +1,1006 @@
+
+
+
+
+How tech workers in the government could make everyone’s life easier: ‘Get rid of the paper’ - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+Vox homepage
+
+
+
+
+
+
+
+
+
+
+
+Give
+Give
+
+
+Newsletters
+Newsletters
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Vox main menu
+
+
+
+              Explainers
+              
+                
+
+
+
+
+              Crossword
+              
+              
+
+
+
+              Video
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Politics
+              
+              
+
+
+
+              Policy
+              
+              
+
+
+
+              Culture
+              
+              
+
+
+
+              Science
+              
+              
+
+
+
+              Technology
+              
+              
+
+
+
+              Climate
+              
+              
+
+
+
+              Health
+              
+              
+
+
+
+              Money
+              
+              
+
+
+
+              Future Perfect
+              
+              
+
+
+
+              Life
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Explainers
+            
+              
+
+
+
+
+
+                          Abortion ruling
+                        
+
+
+
+                          Twitter changes
+                        
+
+
+
+                          Trump indictment
+                        
+
+
+
+
+
+                          AI
+                        
+
+
+
+                          China
+                        
+
+
+
+                          HBO’s Succession
+                        
+
+
+
+All explainers
+
+
+
+
+
+            Crossword
+            
+          
+
+
+
+            Video
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Politics
+            
+          
+
+
+
+            Policy
+            
+          
+
+
+
+            Culture
+            
+          
+
+
+
+            Science
+            
+          
+
+
+
+            Technology
+            
+          
+
+
+
+            Climate
+            
+          
+
+
+
+            Health
+            
+          
+
+
+
+            Money
+            
+          
+
+
+
+            Future Perfect
+            
+          
+
+
+
+            Life
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+x
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+How tech workers in the government could make everyone’s life easier: ‘Get rid of the paper’
+
+On the latest episode of Recode Decode, U.S. Digital Service Acting Administrator Matt Cutts shares his pitch for paperless visa applications and more.
+
+
+    
+      By
+      
+Eric Johnson@HeyHeyESJ
+
+
+            
+                Updated
+            
+            
+  Jul  2, 2018, 10:19am EDT
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+How tech workers in the government could make everyone’s life easier: ‘Get rid of the paper’
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anthony Devlin / Getty
+
+
+
+“We’re not doing anything with blockchain,” said Matt Cutts, the acting administrator of the U.S. Digital Service. For now, at least, the tech-focused division of the White House’s Office of Management and Budget is focused on the more basic ways that technology can make Americans’ interactions with the government user-friendly.
+“I am less worried about machine learning, I am less worried about artificial intelligence or the blockchain,” Cutts said on the latest episode of Recode Decode, hosted by Kara Swisher. “I am more worried about the veteran who calls the VA every single day at 9 am.”
+Cutts, who spent nearly 17 years at Google before joining the USDS in 2017, said that’s not a rhetorical example. There really was a veteran, named Charles, who was calling every day to check in on the status of a disability claim appeal.
+“All we did was implement a progress bar so that he knows where he stands out of 100,000-plus veterans,” Cutts said. “So even though he knows he might have a two-and-a-half-year-plus wait, just knowing where you stand in that queue makes you heard and respected and valued.”
+He urged tech workers to consider a temporary tour of duty in the government because applying Silicon Valley’s “agile practices” to things like veterans’ benefits or Medicare can make a huge difference in people’s lives. And contrary to what some might expect, he said the USDS’ work has remained just as nonpartisan under President Trump as it was under President Obama.
+“There is so much good work to be done — high-impact work that can help a regular person get access to the sorts of government services that they need to have,” Cutts said.
+You can listen to Recode Decode on Apple Podcasts, Spotify, Pocket Casts, Overcast or wherever you listen to podcasts.
+
+On the new podcast, Cutts did propose one big idea that could help everyone, both those working in government and everyday citizens: “Get rid of paper.”
+“I would be extremely ecstatic,” he said. “For example, H-1B visas. Millions of pieces of paper are shipped to a place, which then does a lottery, and ships all that paper back to the people who lost in the lottery. If you could just start with a preregistraton page that was digital ...”
+“We’re kind of used to seeing these pictures of supervisors’ offices with stacks and stacks up to the ceiling, which are unsearchable,” Cutts added. “Some people think they can do better by scanning or faxing stuff in, and then having an electronic version of that. The fact is, it needs to be digital-native from the beginning. That’s how it’s searchable, that’s how you can really check for errors.”
+If you like this show, you should also sample our other podcasts:
+
+
+Recode Media with Peter Kafka features no-nonsense conversations with the smartest and most interesting people in the media world, with new episodes every Thursday. Use these links to subscribe on Apple Podcasts, Spotify, Pocket Casts, Overcast or wherever you listen to podcasts.
+On Too Embarrassed to Ask, also hosted by Kara Swisher, we answer the tech questions sent in by our readers and listeners. You can hear new episodes every Friday on Apple Podcasts, Spotify, Pocket Casts, Overcast or wherever you listen to podcasts.
+
+If you like what we’re doing, please write a review on Apple Podcasts — and if you don’t, just tweet-strafe Kara.
+
+This article originally appeared on Recode.net.
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+    Next Up In
+    
+        Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+
+
+
+
+The case against pet ownership
+
+
+
+
+
+
+The ongoing scandal over leaked US intel documents, explained
+
+
+
+
+
+
+Why Austin Butler still sounds like Elvis, explained by his own vocal coach
+
+
+
+
+
+
+Why all your friends are sending you voice notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vox-mark
+
+
+
+
+
+
+
+
+        Sign up for the
+        
+          newsletter
+        
+      
+      Future Perfect
+    
+Each week, we explore unique solutions to some of the world's biggest problems.
+
+
+
+
+
+
+Thanks for signing up!
+Check your inbox for a welcome email.
+
+
+
+
+Email (required)
+
+
+
+
+
+
+Oops. Something went wrong. Please enter a valid email and try again.
+
+
+      By submitting your email, you agree to our Terms and Privacy Notice. You can opt out at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+      For more newsletters, check out our newsletters page.
+    
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest
+
+
+
+
+
+
+
+
+
+
+Why the workplace is a common site of mass shootings
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mifepristone is safe
+
+
+    
+      By
+      
+Keren Landman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+
+Why AI doesn’t speak every language
+
+
+    
+      By
+      
+Phil Edwards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An assault weapons ban might not end mass shootings. But it would help.
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tennessee Republicans kicked out Justin Jones for gun control protests. He’s back. 
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
