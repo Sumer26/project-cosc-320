@@ -1,0 +1,977 @@
+
+
+
+
+Twitter isn’t hosting its annual developers conference, Flight, this year - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+Vox homepage
+
+
+
+
+
+
+
+
+
+
+
+Give
+Give
+
+
+Newsletters
+Newsletters
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Vox main menu
+
+
+
+              Explainers
+              
+                
+
+
+
+
+              Crossword
+              
+              
+
+
+
+              Video
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Politics
+              
+              
+
+
+
+              Policy
+              
+              
+
+
+
+              Culture
+              
+              
+
+
+
+              Science
+              
+              
+
+
+
+              Technology
+              
+              
+
+
+
+              Climate
+              
+              
+
+
+
+              Health
+              
+              
+
+
+
+              Money
+              
+              
+
+
+
+              Future Perfect
+              
+              
+
+
+
+              Life
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Explainers
+            
+              
+
+
+
+
+
+                          Abortion ruling
+                        
+
+
+
+                          Twitter changes
+                        
+
+
+
+                          Trump indictment
+                        
+
+
+
+
+
+                          AI
+                        
+
+
+
+                          China
+                        
+
+
+
+                          HBO’s Succession
+                        
+
+
+
+All explainers
+
+
+
+
+
+            Crossword
+            
+          
+
+
+
+            Video
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Politics
+            
+          
+
+
+
+            Policy
+            
+          
+
+
+
+            Culture
+            
+          
+
+
+
+            Science
+            
+          
+
+
+
+            Technology
+            
+          
+
+
+
+            Climate
+            
+          
+
+
+
+            Health
+            
+          
+
+
+
+            Money
+            
+          
+
+
+
+            Future Perfect
+            
+          
+
+
+
+            Life
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+x
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+Twitter isn’t hosting its annual developers conference, Flight, this year
+
+The company will focus on smaller regional events instead. 
+
+
+    
+      By
+      
+Kurt Wagner
+
+
+
+  Oct 11, 2016,  7:22pm EDT
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+Twitter isn’t hosting its annual developers conference, Flight, this year
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kurt Wagner / Recode
+
+
+
+Twitter will forgo its annual mobile developer conference, Flight, this year. 
+If you’re a developer who works with Twitter, or if you like to keep tabs on a calendar, you’ve likely already figured this out. Flight took place in San Francisco the past two Octobers, and the company hasn’t made a peep about this year’s event. 
+It turns out that’s because this year’s event is not happening. Sources say that the conference was planned, at least tentatively, but then abandoned. Company spokesperson Will Stickney confirmed Flight isn’t happening, and said Twitter plans to focus on smaller developer events instead. Here’s a statement:
+We heard feedback after last year's Flight conference that small, more intimate events are where our developer community are seeing the most value. So instead of holding a single developer conference in San Francisco, we are hosting a series of regional developer events, continuing the momentum from our global #HelloWorld. Given the diversity of things developers are building with Twitter (from MoPub, to the Ads API, to Gnip, Fabric, and more) having more local events will enable us to engage with our community in a much more personal way. 
+Canceling Flight — or rather, never scheduling it — is notable given how important these kinds of developers conferences are to other big tech companies like Facebook, Apple and Google. 
+They are usually as much a show for the media and investors as they are for developers, an excuse to show off tools and features the company is building. Apple announced a new watch at its developer conference this fall. Facebook launched a messaging bot platform at its event in April, and Google used its conference to talk about its virtual reality plans. 
+Flight has been a stage for Twitter in the past, too, though on a smaller scale. Two years ago Twitter used Flight to announce its full developer suite, Fabric. Last year, CEO Jack Dorsey used the event to apologize to developers for a relationship he described as “a little bit complicated.”
+“We want to reset our relationship, and we want to make sure that we are learning, we are listening and we are rebooting,” he said at the time. 
+Now Flight is done. And with Twitter’s future as a standalone company very much up in the air, we don’t yet know if it’ll be coming back. 
+This article originally appeared on Recode.net.
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+    Next Up In
+    
+        Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+
+
+
+
+The case against pet ownership
+
+
+
+
+
+
+The ongoing scandal over leaked US intel documents, explained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vox-mark
+
+
+
+
+
+
+
+
+        Sign up for the
+        
+          newsletter
+        
+      
+      Future Perfect
+    
+Each week, we explore unique solutions to some of the world's biggest problems.
+
+
+
+
+
+
+Thanks for signing up!
+Check your inbox for a welcome email.
+
+
+
+
+Email (required)
+
+
+
+
+
+
+Oops. Something went wrong. Please enter a valid email and try again.
+
+
+      By submitting your email, you agree to our Terms and Privacy Notice. You can opt out at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+      For more newsletters, check out our newsletters page.
+    
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest
+
+
+
+
+
+
+
+
+
+
+Why the workplace is a common site of mass shootings
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mifepristone is safe
+
+
+    
+      By
+      
+Keren Landman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+
+Why AI doesn’t speak every language
+
+
+    
+      By
+      
+Phil Edwards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An assault weapons ban might not end mass shootings. But it would help.
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tennessee Republicans kicked out Justin Jones for gun control protests. He’s back. 
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

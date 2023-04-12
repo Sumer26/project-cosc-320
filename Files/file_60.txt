@@ -1,0 +1,680 @@
+
+
+
+
+How love and marriage are changing, according to 63,000 New York Times wedding announcements - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Zachary Crockett / Vox)
+
+
+
+
+How love and marriage are changing, according to 63,000 New York Times wedding announcements
+
+
+    
+      By
+      
+Todd Schneider
+
+
+
+  May 31, 2016,  7:50am EDT
+
+
+
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+How love and marriage are changing, according to 63,000 New York Times wedding announcements
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+The New York Times weddings section is renowned for its obsession with status, providing a window into what the world’s most self-important people deem to be important. Sex and the City references the section repeatedly, and many publications have taken to scrutinizing couples’ credentials over the years.
+In 2013, I built Wedding Crunchers, a search engine for the express purpose of analyzing NYT wedding announcements, and published an exploration of trends across 35 years of what I dubbed "yuppie nuptials." Three years after my first effort, if feels like an opportune time to revisit the analysis and take a look at some new trends. The data set now includes more than 63,000 wedding announcements dating back to 1981, and a lot has changed in the weddings section since then.
+The latest data shows that:
+
+The modern announcements focus less on debutante culture and more on people of diverse religious backgrounds.
+The average age of the people in wedding announcements is increasing.
+Technology plays a more prominent role: Many couples now meet online, and tech companies account for an increasing percentage of employers.
+
+Some things remain the same — the omnipresence of the Ivy League, lawyers, and Wall Street, to name a few — but with the preamble out of the way, let’s dive in and see what we can learn.
+Schools are the most common place to meet — but apps are on the rise
+The NYT only recently began including information about how couples met, whether in college, online, at SoulCycle, or by some other method. I extracted this "how they met" data from 702 announcements since August 2015 and assigned each announcement to a high-level category. Here’s how the meeting spots of the NYT wedding section break down.
+How the couples met
+Based on 702 New York Times wedding announcements published since August 23, 2015
+
+
+
+
+
+
+
+
+
+
+Schools account for more introductions than any other category, with colleges outnumbering graduate programs by about a 2-to-1 ratio. The somewhat vague "met via mutual friends" comes in a close second, followed by online dating and what I labeled "happenstance," which applies to announcements that say something like "they met at a bar" or, in one case, at Burning Man.
+
+Schools where NYT couples meet
+
+
+
+
+
+
+
+
+
+
+
+The "organized activity" label I created includes couples who met doing things like volunteering for political campaigns, playing in kickball leagues, or attending church. The "other" bucket is something of a catchall, including couples who were set up on blind dates, met at other weddings, or were childhood friends.
+There are clearly some universities that dominate the wedding listings. Of the 188 couples who met at school, 15 met at Harvard, more than any other institution. On the right is the full list of schools that produced more than five couples.
+Older couples are more likely to have met online or via mutual friends. I also parsed out age data for each individual, so I could make the same "how they met" graph for people in their 20s, 30s, and over 40.
+How the couples met, by age
+Based on 702 New York Times wedding announcements published since August 23, 2015
+
+
+
+
+
+
+
+
+
+
+It’s interesting, if not surprising, to see how the frequencies change based on age group. Almost half of 20-somethings in the NYT weddings section met in school, compared with only 2 percent of the 40-plus demographic. As people get older, it’s more likely they met via mutual friends or online.
+Tinder’s Wedding Section debut: Dating apps begin to make their mark
+I was curious which dating services were most frequently mentioned, so I took all the couples who met online and split them further by the particular services they used.
+Online dating sites
+Based on 87 New York Times wedding announcements published since August 23, 2015
+
+
+
+
+
+
+
+
+
+
+OkCupid leads the pack, having introduced 39 couples, while Match and JDate follow with 16 and nine couples, respectively. Tinder and Hinge have four each, but their numbers might be limited by a selection bias. Phone-based dating apps are relatively new, so it’s nearly impossible that a couple who met online five years ago could have met using a phone-based app (though shout-out to Reverend Dennis Tinder, who officiated this 1988 wedding, cementing his status as the first "Tinder" appearance in the weddings section).
+The "other" bucket includes a handful of dating services that appear in one announcement each, and some folks who met online even though they didn’t use a dating service. One recent couple met on Instagram, proving that even in the relatively staid world of the NYT, it can, and does, go down in the DM.
+While Tinder and Hinge have each introduced four NYT couples, Tinder is winning a subtler competition for notoriety.
+Whenever Tinder appears in an announcement, it requires no additional description, whereas Hinge is always referred to as "the dating app Hinge." The implication is that of course people know what Tinder is, but maybe they’ve never heard of Hinge, much in the same way that Goldman Sachs is consistently described as the investment bank, while less notable companies are often "an investment bank." Here are the relevant excerpts:
+
+"introduced through Hinge, a dating service"
+"introduced through Tinder in 2013"
+"introduced through Tinder in February 2014"
+"met in Houston through Tinder in 2014"
+"met in Manhattan in 2013 via the dating app Hinge" 
+"introduced through the dating app Hinge" 
+"introduced in June 2014 through the dating app Hinge" 
+"introduced through Tinder in March 2014"
+
+30-somethings are the new 20-somethings
+People in the NYT Weddings Section have been getting older over time. Wedding announcements started including ages in 1989, when the median age was 27 for women and 29 for men. As of 2016, the median ages have increased to 30 for women and 32 for men. In 1989 you were twice as likely to see a 20-something in the weddings section as you were a 30-something, but as of 2016 the 30-somethings have taken over the majority, presumably to the chagrin of expectant grandparents throughout the tristate area:
+30s are the new 20s
+Based on 38,274 New York Times wedding announcements published since 1989
+
+
+
+
+
+
+
+
+
+
+Same-sex couples are an exception to this trend: The median age of same-sex couples was 43 in 2011 and has since fallen to 35. But that might be an artifact of the legal process: When New York state recognized same-sex marriage in 2011, there was likely a backlog of older couples who would have been married years earlier had it been been allowed, and these older couples would cause the median age to skew higher shortly after the official recognition.
+The words you’re most likely to see in a New York Times wedding announcement
+Wedding Crunchers lets you search for words and phrases, then returns a graph that shows you how frequently they appear in weddings announcements. This is called an "n-gram analysis," where the y-axis represents the average number of occurrences per announcement. So for example, if you see a y-axis value of 0.1 for a word, it means that word appears an average of 0.1 times per announcement.
+NYT wedding announcements lend themselves nicely to n-gram analysis because they’re fairly consistently structured, including data on where people went to school, their job titles, who officiated the ceremony, and more. The special Vows articles are an exception: They are longer and don’t follow the standard announcement structure, so Wedding Crunchers specifically excludes Vows articles from n-gram results. As of May 2016 there are 63,000 wedding announcements in the Wedding Crunchers database.
+Is tech encroaching on finance’s status as the city’s "it" profession?
+New York is widely known as the financial capital of the United States, if not the world, and it shouldn’t be surprising that a lot of married folks work in the financial industry. In more recent years, the city has grown its presence in the technology sector as well, embodied by Google pulling even with Goldman Sachs in NYT wedding announcement mentions:
+Goldman Sachs versus Google
+
+
+
+
+
+
+
+
+
+
+There are, of course, of more scientific ways to compare NYC’s tech and financial industries beyond cherry-picking wedding announcement mentions for two particular companies. Employment and wage data might be good places to start, but I’d argue that NYT wedding mentions get at something core to New York City's prestige-obsessed culture that would be difficult to quantify with traditional employment data alone.
+Put another way: I doubt that people explicitly choose jobs by asking themselves, "What would look best in my future NYT wedding announcement?" But I’d also suspect that the answer to that question is highly correlated with people’s actual decisions, at least for the people who end up in the weddings section.
+So although Google and Goldman Sachs are just two companies among many, the fact that Google appears as frequently as the most prestigious investment bank suggests that at least a certain brand of tech company now rivals investment banks for prestige.
+Startups are on the rise, too, though lest we get ahead of ourselves, they’re still only a tiny blip on the radar compared with law firms and banks, the most traditional of all NYT wedding professional institutions:
+Startups are still minuscule relative to law firms and banks
+
+
+
+
+
+
+
+
+
+
+Planet of the Apps
+It seems like everyone is hawking a mobile app these days, and NYT wedded couples are no exception. Instances of "mobile apps" and related phrases shot up beginning in 2013, surpassing "social media," which apparently is so first-half-of-the-decade:
+Apps have surpassed social media
+
+
+
+
+
+
+
+
+
+
+Trends come and go, and there are plenty of people questioning the near-term outlook for tech companies, but it’s amusing to look back on the proliferation and subsequent retrenchment of "internet" mentions circa 2000:
+Tech bubble 1.0
+
+
+
+
+
+
+
+
+
+
+Religious diversity is on the rise, but politically the weddings section is bluer than ever. One of the big themes of my previous analysis of the wedding announcements was the increase in ethnic diversity from the 1980s through today. That trend has continued, as encapsulated by more mentions of Hindu ceremonies alongside fewer Episcopalian ceremonies:
+
+
+
+
+
+
+
+
+
+
+Changing demographics of the NYT weddings section
+There’s also a trend toward having friends officiate weddings, as evidenced by mentions of Universal Life ministers and American Marriage Ministries. I wouldn’t go so far as to call it a rejection of organized religion by the younger generation, but it does seem like reverends and rabbis have lost a bit of market share in the past decade:
+Friends are officiating more marriages compared with religious leaders
+
+
+
+
+
+
+
+
+
+
+Politics is one area where announcements aren’t getting more diverse. Political party names show up in announcements when someone works for a campaign, or is a politician or the child of one. I noted last time around that Republican mentions actually outnumbered Democrat mentions in the early 1980s, but over the past decade the ratio has favored Democrats by a nearly 3-to-1 ratio:
+Democrats and Republicans
+
+
+
+
+
+
+
+
+
+
+At least in the world of NYT weddings, peak Trump occurred in 2006. Upon closer inspection, about a quarter of all "Trump" mentions were actually for Donald’s sister Maryanne Trump Barry, who served as a judge on the United States Court of Appeals for the Third Circuit and had a handful of clerks whose announcements made the weddings section.
+Same-sex marriage is ditching old euphemisms
+The NYT began publishing announcements for gay couples in 2002, some nine years before same-sex marriage was recognized by New York State. Initially, same-sex announcements used euphemistic phrases like "affirmed their partnership" and "commitment ceremony" instead of the traditional "married" language. But over time, and especially now that same-sex marriage is legal in the United States, same-sex announcements began to use the same language as opposite-sex announcements, so we see the euphemisms in decline:
+Legalization of same-sex marriage
+
+
+
+
+
+
+
+
+
+
+Since 2011, when New York state recognized same-sex marriage, same-sex couples account for about 10 percent of all announcements. Interestingly, men outnumber women by about 3 to 1 in same-sex announcements.
+A 2013 report from the Pew Research Center found that "female-female marriages outnumbered male-male marriages in every reporting jurisdiction except New York City," so at least one plausible explanation for the same-sex gender imbalance in the NYT is that there are more gay men than gay women getting married in NYC.
+Women earn more Latin honors than men
+Another area in which men and women are not equal in the NYT weddings section: Latin honors. I’ve seen headlines before about how girls tend to do better in school than boys, and the weddings section supports the claim, as women graduate cum laude more often than men do:
+Cum laude Latin honors
+
+
+
+
+
+
+
+
+
+
+The trend holds for magna cum laude mentions as well, though the genders are pretty much equal for summa cum laude graduates.
+"Eyebrows on the same level": Calculating the most perfect NYT wedding photo
+ 
+
+
+
+
+
+
+
+
+
+
+(Shutterstock)
+The NYT’s rules for submitting a wedding announcement specify that photos should include couples with "their eyebrows on the same level and with their heads fairly close together." Some friends of mine were recently featured in the weddings section despite a rather nonconforming photo, which, believe it or not, came up as a topic of conversation at the morning-after brunch.
+My contribution to the discussion was a promise to use the Wedding Crunchers database to determine the most conforming photo of all time. I ran every wedding photo through a face detection algorithm to extract coordinates for facial landmarks, then ranked the photos based on how level each couple's eyes and eyebrows were, plus how close together their heads were.
+Finally, we can all stop wondering: The most perfectly conforming NYT wedding photo of all time belongs to Tyler Davidson and Hilary Burt. Congratulations!
+Remember, you can run your own searches at WeddingCrunchers.com, and be sure to share your favorite trends!
+ 
+Todd Schneider writes software at Genius. The Huffington Post has called him "a Reform Jew who went to Yale University and once worked for a hedge fund."
+
+Why are weddings so damn expensive?
+
+
+
+
+
+
+
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Even Better
+
+Small acts of kindness matter more than you think
+
+
+
+
+Abortion
+
+What is misoprostol? Crucial questions about the other abortion drug.
+
+
+
+
+Politics
+
+The GOP’s coordinated national campaign against trans rights, explained
+
+
+View all stories in Life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

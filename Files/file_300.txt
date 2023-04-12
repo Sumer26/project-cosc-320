@@ -1,0 +1,1011 @@
+
+
+
+
+Months after a self-driving crash, Uber is being slower and more deliberate as it gets back on public roads to test its technology  - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+Vox homepage
+
+
+
+
+
+
+
+
+
+
+
+Give
+Give
+
+
+Newsletters
+Newsletters
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Vox main menu
+
+
+
+              Explainers
+              
+                
+
+
+
+
+              Crossword
+              
+              
+
+
+
+              Video
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Politics
+              
+              
+
+
+
+              Policy
+              
+              
+
+
+
+              Culture
+              
+              
+
+
+
+              Science
+              
+              
+
+
+
+              Technology
+              
+              
+
+
+
+              Climate
+              
+              
+
+
+
+              Health
+              
+              
+
+
+
+              Money
+              
+              
+
+
+
+              Future Perfect
+              
+              
+
+
+
+              Life
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Explainers
+            
+              
+
+
+
+
+
+                          Abortion ruling
+                        
+
+
+
+                          Twitter changes
+                        
+
+
+
+                          Trump indictment
+                        
+
+
+
+
+
+                          AI
+                        
+
+
+
+                          China
+                        
+
+
+
+                          HBO’s Succession
+                        
+
+
+
+All explainers
+
+
+
+
+
+            Crossword
+            
+          
+
+
+
+            Video
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Politics
+            
+          
+
+
+
+            Policy
+            
+          
+
+
+
+            Culture
+            
+          
+
+
+
+            Science
+            
+          
+
+
+
+            Technology
+            
+          
+
+
+
+            Climate
+            
+          
+
+
+
+            Health
+            
+          
+
+
+
+            Money
+            
+          
+
+
+
+            Future Perfect
+            
+          
+
+
+
+            Life
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+x
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+Months after a self-driving crash, Uber is being slower and more deliberate as it gets back on public roads to test its technology 
+
+Uber has had no choice but to move carefully. 
+
+
+    
+      By
+      
+Johana Bhuiyan@JMBooyah
+
+
+
+  Jul 24, 2018,  4:20pm EDT
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+Months after a self-driving crash, Uber is being slower and more deliberate as it gets back on public roads to test its technology 
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Volvo Cars and Uber join forces to develop autonomous driving cars
+Volvo
+
+
+
+“Slow,” “steady” and “deliberate” are rarely used when describing Uber. But months after an Uber vehicle operating in autonomous mode fatally crashed into a pedestrian, the company has had no choice but to move carefully. 
+After pulling all of its self-driving cars off public roads, laying off all the vehicle operators in Pittsburgh and San Francisco and shutting down its Arizona self-driving operation, Uber is very gradually beginning to prepare to start testing self-driving cars again. That starts with manually driving its fleet of Volvo XC90s in Pittsburgh to map out the streets. 
+Mapping out city streets is essentially square one for testing self-driving cars — that’s a tough spot to be in as a company with serious ambitions for developing autonomous technology, especially in the face of massive competition. But Uber has to move slowly to regain the trust of not just the public, but also city and local governments. 
+This gradual start in Pittsburgh also gives Uber time to implement some of the safety features and changes recommended by an internal team of experts that conducted a review of the company’s self-driving development and operation. 
+Those changes may seem small individually, but together they point to a significant change in how Uber is thinking about self-driving. While much of the inception and some of the way in which the company later operated its self-driving efforts was fueled by competition — specifically with Google parent company Alphabet — the company is now introducing features and technology that prioritize safety. 
+Specifically, Uber is going back to having two people in each car, and will be monitoring its safety drivers — the people who are designated to take over control of the car as needed — in real time. 
+It’s not common for autonomous test cars to be driven with just one person behind the wheel so early in the technology’s development. But around November 2017, Uber switched two safety drivers to one for many of its cars, in part to increase the number of miles each car was driven in autonomous mode, sources told Recode. Miles driven autonomously is just one of many barometers for how advanced a company’s technology is and is how the software driving the cars learns and gains more experience. 
+An Uber spokesperson said that the company decided to make the transition from two drivers to one because the company felt that the role of the second operator — which was to gather information about how well the car was driving itself — could be done after the fact and didn’t have to be done in real time. 
+A byproduct of that, however, is drivers were left alone to determine when to take over control over the car as needed, and there was no one there to ensure they were not distracted. 
+Add to that, the company’s in-car camera system did not detect when a driver was distracted — it simply recorded the driver. That means in order to see whether a driver was distracted at any point in time, a manager had to manually go through the footage after the fact. 
+While sources say that was inefficient in and of itself, it was also exacerbated by how quickly Uber was hiring safety drivers. In Arizona, some managers were in charge of about 25 people, one source said, making it difficult to spot-check whether anyone had unsafe driving behaviors. That said, if a driver was caught doing something unsafe, the company typically had a one-strike policy, sources said. 
+This new off-the-shelf camera system Uber is integrating will instead detect distracted driving in real time, log it into the system automatically, and then make a noise to alert the driver to pay attention. (Similar to a system that startup Nauto has built.) So managers will simply have to look at the software or platform to see all the instances of a driver being distracted. 
+While an Uber spokesperson said the company was being more deliberate about the ratio of managers to vehicle operators — the company is filling about 55 roles for what it calls “mission specialists” — this new real-time alert system will help alleviate some of the difficulty of auditing driving behavior manually. 
+That’s hugely important. A closer investigation of the fatal crash that took the life of Elaine Herzberg in Arizona revealed that Uber relied heavily on the humans sitting behind the wheel to react immediately in an emergency. And in this case the driver was distracted. 
+In fact, it was later revealed that the driver was streaming a show on her phone while sitting behind the wheel. 
+That’s the risk with depending on a human driver — they become too reliant on the automated technology to drive itself safely and, in turn, get distracted. To that end, Uber is also ensuring that the automatic emergency braking system that is already built into the car will be engaged no matter when it is being driven. 
+
+
+Have more information or any tips? Johana Bhuiyan is the senior transportation editor at Recode and can be reached at johana@recode.net or on Signal, Confide, WeChat or Telegram at 516-233-8877. You can also find her on Twitter at @JmBooyah.
+
+
+These changes come to Uber as the competition for being one of the first companies with a network of self-driving cars — an important feat both technologically and financially — becomes steeper. 
+From a pure miles-driven standpoint, Alphabet’s Waymo announced it had autonomously driven more than eight million miles on public roads just last week. At last count, Uber had only reached three million miles before it halted all of its self-driving testing in March. 
+While the company doesn’t have to start entirely from scratch once it does start testing its autonomous technology again, Uber was struggling to meet internal goals in the lead up to the crash. 
+As we first reported, Uber’s fleet of vehicles could only drive less than a mile before a safety driver had to take over in March 2017. As of March 2018, the company was still struggling to meet its goal of driving 13 miles without a driver taking over. While it was a meager increase from the year prior, it was still far lower than its competitors like Waymo, which said it drove an average of 5,600 miles before a driver had to take over control in 2017. 
+At the core of this issue is safety. Companies building self-driving cars pitch it as a potentially life-saving technology, but those companies still have a lot to prove. That’s especially true as the U.S. Congress actively works to regulate autonomous technology. 
+This article originally appeared on Recode.net.
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+    Next Up In
+    
+        Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+
+
+
+
+The case against pet ownership
+
+
+
+
+
+
+The ongoing scandal over leaked US intel documents, explained
+
+
+
+
+
+
+Why Austin Butler still sounds like Elvis, explained by his own vocal coach
+
+
+
+
+
+
+Why all your friends are sending you voice notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vox-mark
+
+
+
+
+
+
+
+
+        Sign up for the
+        
+          newsletter
+        
+      
+      Future Perfect
+    
+Each week, we explore unique solutions to some of the world's biggest problems.
+
+
+
+
+
+
+Thanks for signing up!
+Check your inbox for a welcome email.
+
+
+
+
+Email (required)
+
+
+
+
+
+
+Oops. Something went wrong. Please enter a valid email and try again.
+
+
+      By submitting your email, you agree to our Terms and Privacy Notice. You can opt out at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+      For more newsletters, check out our newsletters page.
+    
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest
+
+
+
+
+
+
+
+
+
+
+Why the workplace is a common site of mass shootings
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mifepristone is safe
+
+
+    
+      By
+      
+Keren Landman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+
+Why AI doesn’t speak every language
+
+
+    
+      By
+      
+Phil Edwards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An assault weapons ban might not end mass shootings. But it would help.
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tennessee Republicans kicked out Justin Jones for gun control protests. He’s back. 
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
