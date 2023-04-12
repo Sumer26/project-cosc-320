@@ -1,0 +1,982 @@
+
+
+
+
+Global Chip Industry Readies for a Future Beyond Moore's Law - Vox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+Vox homepage
+
+
+
+
+
+
+
+
+
+
+
+Give
+Give
+
+
+Newsletters
+Newsletters
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Vox main menu
+
+
+
+              Explainers
+              
+                
+
+
+
+
+              Crossword
+              
+              
+
+
+
+              Video
+              
+              
+
+
+
+              Podcasts
+              
+              
+
+
+
+              Politics
+              
+              
+
+
+
+              Policy
+              
+              
+
+
+
+              Culture
+              
+              
+
+
+
+              Science
+              
+              
+
+
+
+              Technology
+              
+              
+
+
+
+              Climate
+              
+              
+
+
+
+              Health
+              
+              
+
+
+
+              Money
+              
+              
+
+
+
+              Future Perfect
+              
+              
+
+
+
+              Life
+              
+              
+
+
+
+              Newsletters
+              
+              
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Explainers
+            
+              
+
+
+
+
+
+                          Abortion ruling
+                        
+
+
+
+                          Twitter changes
+                        
+
+
+
+                          Trump indictment
+                        
+
+
+
+
+
+                          AI
+                        
+
+
+
+                          China
+                        
+
+
+
+                          HBO’s Succession
+                        
+
+
+
+All explainers
+
+
+
+
+
+            Crossword
+            
+          
+
+
+
+            Video
+            
+          
+
+
+
+            Podcasts
+            
+          
+
+
+
+            Politics
+            
+          
+
+
+
+            Policy
+            
+          
+
+
+
+            Culture
+            
+          
+
+
+
+            Science
+            
+          
+
+
+
+            Technology
+            
+          
+
+
+
+            Climate
+            
+          
+
+
+
+            Health
+            
+          
+
+
+
+            Money
+            
+          
+
+
+
+            Future Perfect
+            
+          
+
+
+
+            Life
+            
+          
+
+
+
+            Newsletters
+            
+          
+
+x
+
+
+
+
+
+
+
+
+      We have a request
+    
+
+We're aiming to add 1,500 new contributions this month to help keep Vox free for everyone. Will you chip in? 
+×
+
+
+
+
+
+
+
+
+
+
+
+Global Chip Industry Readies for a Future Beyond Moore's Law
+
+After 50 years, a fundamental assumption about the march of progress in computing is evolving into something new.
+
+
+    
+      By
+      
+Arik Hesseldahl
+
+
+
+  Feb 15, 2016,  1:50pm EST
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+Share this on Twitter
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+Global Chip Industry Readies for a Future Beyond Moore's Law
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screenshot from the Chemical Heritage Foundation
+
+
+
+It hasn’t even been a year since the world’s technology elite paused to observe the 50th anniversary of Moore’s Law, and the long knives are already out in force to deny it a 51st.
+Next month the global semiconductor industry will release its latest biennial assessment of the technological road ahead for making computer chips. As reported by the journal Nature, for the first time, the look ahead will be crafted without the key assumption of the “law,” central in all previous reports: That chipmaking technology will improve sufficiently that companies at the forefront of the business will be able to shrink the size of transistors every two years or so at a more-or-less predictable pace.
+The new forecast, called the International Roadmap for Devices and Systems, is an evolution of what has since 1998 been called the International Technology Roadmap for Semiconductors. For the first time, its outlook will be based less on the view that applications will inevitably follow improvements in raw computing speed and power, but instead that chip advances will be developed with applications in mind: Smartphones, wearable devices and machines running in data centers and so on. Moore’s Law will no longer be considered central to the roadmap.
+Moore’s Law isn’t really a law of science, but rather an informal observation made about the apparent progress of what was in 1965 a very young chip industry. That year Gordon Moore — who later co-founded Intel — wrote up his thoughts in a paper for the April 1965 edition of Electronics Magazine. He proved remarkably prescient, suggesting that by 1975 a single chip could contain a then-unimaginable 75,000 transistors. The transistor counts of today’s mainstream chips number in the billions.
+Practically every form of computing and electronics has derived a direct benefit from the unremitting efforts of semiconductor engineers who have repeatedly scaled seemingly impassable barriers in the electrical and materials sciences. The advances have had a monumental long-term effect on society’s ability to process information and to make it faster and easier to access: Every new generation of chip is smaller than and at least as powerful a computing engine as the one that came before it, but less expensive to make.
+Until now, practically every time doubting wags, including myself, have argued that the time had come for Moore and his law to ride off into the sunset, the engineers in bunny suits have figured out new ways to maintain control of the electrons flowing on a chip.
+This time is different. As I argued in an essay for Re/code last year, the chip industry is running up against some truly fundamental limits that are causing a lot of people who know a lot more about this than I do to conclude that the time has come to reconsider how we think about improvements in computing.
+It comes down to this: You can only shrink a chip so much before the physics fails.
+The most advanced chip currently turned out by Intel is built on a 14-nanometer process technology. A nanometer is a billionth a meter, and the period at the end of this sentence, were it printed on paper, would be about one million nanometers. At 14 nanometers, the individual parts that make up that chip are smaller than a typical virus particle and similar in size to the outer cell wall of an individual germ. It has gotten so expensive and complicated to manufacture at this scale that only four companies are considered to be on today’s leading edge, down from 18 a decade ago: Intel, Samsung, Taiwan Semiconductor Manufacturing Corp. and GlobalFoundries.
+The next logical steps in the semiconductor roadmap take us to 10 nanometers, which, depending on whom you ask, may appear in commercial chips this year. Beyond that lies seven nanometers — due about 2018 or 2019. Intel can see ahead about that far. TSMC says it will reach seven nanometers sometime next year and is now working to get to five.
+Generally speaking it’s at the five-nanometer juncture — due maybe in 2021, give or take — that the outlook has tended to get incomprehensibly fuzzy. At that size, elements on the chip would be about twice the size of a strand of DNA.
+Smaller than that, the design features on a chip become no bigger than 10 individual atoms. At that scale, electrons start to behave unreliably: The laws of classical physics give way to the infamously uncertain rules of the quantum scale. Remember Heisenberg (and I don’t mean the one from “Breaking Bad”)? This is his territory. You might be able to make chips at that size, but there’s no guarantee they’d work.
+So what’s it all mean? Potentially a much more complex view of the progress of chip technology as we head into the future. As Daniel Reed, a computer scientist at the University of Iowa who was quoted in the Nature essay, says, today’s Boeing 787 doesn’t fly much faster than a Boeing 707 did in the 1970s, but a lot of other innovation has come in aircraft since then, including improved fuel efficiency, lighter airframes and electronic navigation systems.
+The road ahead will diverge from one into many with different destinations and different milestones along the way. Some indeed may lead nowhere, but others will lead into unexpected territory that we haven’t foreseen. I don’t know about you, but to me that seems kind of cool.
+This article originally appeared on Recode.net.
+
+
+
+Help us celebrate nine years of Vox
+
+      Since Vox launched in 2014, our audience has supported our mission in so many meaningful ways. More than 80,000 people have responded to requests to help with our reporting. Countless teachers have told us about how they’re using our work in their classroom. And in the three years since we launched the Vox Contributions program, tens of thousands of people have chipped in to help keep our unique work free. We’re committed to keeping our work free for all who need it, because we believe that high-quality explanatory journalism is a public good. We can’t rely on ads alone to do that. Will you help us keep Vox free for the next nine years by making a gift today? 
+
+
+ 
+
+
+
+
+
+
+One-Time
+
+
+
+Monthly
+
+
+
+Annual
+
+ 
+ 
+
+
+
+
+
+$95/year
+
+
+
+
+
+$120/year
+
+
+
+
+
+$250/year
+
+
+
+
+
+$350/year
+
+
+
+
+Other
+
+
+
+
+
+$
+
+
+
+
+
+            Yes, I'll give $120/year
+
+
+
+          Yes, I'll give $120/year
+
+
+
+
+
+                We accept credit card, Apple Pay, and
+              
+
+                Google Pay. You can also contribute via
+              
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+    Next Up In
+    
+        Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+
+
+
+
+The case against pet ownership
+
+
+
+
+
+
+The ongoing scandal over leaked US intel documents, explained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vox-mark
+
+
+
+
+
+
+
+
+        Sign up for the
+        
+          newsletter
+        
+      
+      Future Perfect
+    
+Each week, we explore unique solutions to some of the world's biggest problems.
+
+
+
+
+
+
+Thanks for signing up!
+Check your inbox for a welcome email.
+
+
+
+
+Email (required)
+
+
+
+
+
+
+Oops. Something went wrong. Please enter a valid email and try again.
+
+
+      By submitting your email, you agree to our Terms and Privacy Notice. You can opt out at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+      For more newsletters, check out our newsletters page.
+    
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest
+
+
+
+
+
+
+
+
+
+
+Why the workplace is a common site of mass shootings
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mifepristone is safe
+
+
+    
+      By
+      
+Keren Landman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why these Democrats are defecting to the GOP
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play
+
+
+
+
+Why AI doesn’t speak every language
+
+
+    
+      By
+      
+Phil Edwards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An assault weapons ban might not end mass shootings. But it would help.
+
+
+    
+      By
+      
+Nicole Narea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tennessee Republicans kicked out Justin Jones for gun control protests. He’s back. 
+
+
+    
+      By
+      
+Li Zhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Masthead
+About Us
+Press Room
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+
+Author Login
+
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2023 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
